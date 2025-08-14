@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="g0wCVnSSmMmATIx8mpHk">
     <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,45 +52,45 @@
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-31" value="GET&amp;nbsp;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;https://studies.cs.helsinki.fi/exampleapp/main.css&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="360" as="sourcePoint" />
-            <mxPoint x="800" y="360" as="targetPoint" />
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-32" value="CSS File" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="400" as="sourcePoint" />
-            <mxPoint x="480" y="400" as="targetPoint" />
+            <mxPoint x="800" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-33" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;https://studies.cs.helsinki.fi/exampleapp/spa.js&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="440" as="sourcePoint" />
-            <mxPoint x="800" y="440" as="targetPoint" />
+            <mxPoint x="480" y="480" as="sourcePoint" />
+            <mxPoint x="800" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-34" value="Javascript file" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="480" as="sourcePoint" />
-            <mxPoint x="480" y="480" as="targetPoint" />
+            <mxPoint x="800" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-35" value="GET&amp;nbsp;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;https://studies.cs.helsinki.fi/exampleapp/data.json&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="561" as="sourcePoint" />
-            <mxPoint x="800" y="561" as="targetPoint" />
+            <mxPoint x="480" y="601" as="sourcePoint" />
+            <mxPoint x="800" y="601" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-36" value="JSON File" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="600" as="sourcePoint" />
-            <mxPoint x="480" y="600" as="targetPoint" />
+            <mxPoint x="800" y="640" as="sourcePoint" />
+            <mxPoint x="480" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eut2bo1t_oWebqdGNDYQ-38" value="Show the web page" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="Eut2bo1t_oWebqdGNDYQ-38" value="Start rendering the web page" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="679" as="sourcePoint" />
-            <mxPoint x="200" y="679" as="targetPoint" />
+            <mxPoint x="480" y="359" as="sourcePoint" />
+            <mxPoint x="200" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-39" value="Write something into the text field" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -122,10 +122,10 @@
           <mxGeometry x="200" y="930" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="THVDRE6kjaGzaXfowvz_-5" value="The browser starts executing the JavaScript code that fetches the JSON from the server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="482" width="320" height="30" as="geometry" />
+          <mxGeometry x="480" y="527" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="THVDRE6kjaGzaXfowvz_-6" value="The browser executes the callback function that renders the notes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="610" width="320" height="30" as="geometry" />
+          <mxGeometry x="480" y="650" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="THVDRE6kjaGzaXfowvz_-7" value="Click on the Save button" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">

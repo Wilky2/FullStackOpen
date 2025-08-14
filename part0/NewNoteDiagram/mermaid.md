@@ -7,6 +7,7 @@ sequenceDiagram
     user ->> browser: Go to https://studies.cs.helsinki.fi/exampleapp/notes
     browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/notes
     server -->> browser: HTML document
+    browser -->> user: Start rendering the web page
     browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
     server -->> browser: CSS File
     browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
@@ -15,7 +16,6 @@ sequenceDiagram
     browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     server -->> browser: JSON File
     Note over browser: The browser executes the callback function that renders the notes
-    browser -->> user: Show the web page
 
     user ->> browser: Write something into the text field
     user ->> browser: Click on the Save button
