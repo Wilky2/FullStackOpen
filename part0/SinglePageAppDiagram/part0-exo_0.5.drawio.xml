@@ -62,7 +62,7 @@
             <mxPoint x="480" y="441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Eut2bo1t_oWebqdGNDYQ-33" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;https://studies.cs.helsinki.fi/exampleapp/spa.js&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="Eut2bo1t_oWebqdGNDYQ-33" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;GET https://studies.cs.helsinki.fi/exampleapp/spa.js&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="480" y="481" as="sourcePoint" />
             <mxPoint x="800" y="481" as="targetPoint" />
@@ -70,21 +70,21 @@
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-34" value="Javascript file" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="480" as="sourcePoint" />
-            <mxPoint x="480" y="480" as="targetPoint" />
+            <mxPoint x="800" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-35" value="GET&amp;nbsp;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: system-ui, sans-serif; font-size: 12px; text-align: start; text-wrap-mode: wrap;&quot;&gt;https://studies.cs.helsinki.fi/exampleapp/data.json&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="480" y="602" as="sourcePoint" />
-            <mxPoint x="800" y="602" as="targetPoint" />
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="800" y="600" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-36" value="JSON File" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="641" as="sourcePoint" />
-            <mxPoint x="480" y="641" as="targetPoint" />
+            <mxPoint x="800" y="640" as="sourcePoint" />
+            <mxPoint x="480" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Eut2bo1t_oWebqdGNDYQ-38" value="Start rendering the web page" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
@@ -94,10 +94,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="THVDRE6kjaGzaXfowvz_-5" value="The browser starts executing the JavaScript code that fetches the JSON from the server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="523" width="320" height="30" as="geometry" />
+          <mxGeometry x="480" y="541" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="THVDRE6kjaGzaXfowvz_-6" value="The browser executes the callback function that renders the notes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="651" width="320" height="30" as="geometry" />
+          <mxGeometry x="480" y="660" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
