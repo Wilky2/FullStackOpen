@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "working everyday is the key",
+      "id": 3
+    },
+    {
+      "content": "full stack open",
+      "id": 4
+    },
+    {
+      "content": "some more testing",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "Jessica",
+      "number": "91-123-4342432",
+      "id": 3
+    },
+    {
+      "name": "Testing Again",
+      "number": "01-12345678",
+      "id": 4
+    }
+  ]
+}
